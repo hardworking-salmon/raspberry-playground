@@ -7,6 +7,7 @@ https://ru.aliexpress.com/item/4000062025549.html (for example) ~$79
 # How to setup
 https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up
 https://www.raspberrypi.org/downloads/
+<img src="connect_fan.jpg"/>
 <img src="pinout.png"/>
 
 

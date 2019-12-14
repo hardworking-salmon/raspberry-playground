@@ -10,9 +10,12 @@ https://www.raspberrypi.org/downloads/
 
 # How to login
 default login = pi
+
 default password = raspberry
 
 # How to setup wi-fi with console
 The quickest way to enable wireless networking is to use the command line raspi-config tool.
+
 $ sudo raspi-config
+
 https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
